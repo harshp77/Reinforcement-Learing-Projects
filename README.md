@@ -24,11 +24,11 @@ https://user-images.githubusercontent.com/76607486/164916547-24d26bb9-16c0-41be-
 
 ## CarPole with Deep Q Learning p-3
 
--- Scores Increased by a 4 folds
+-- Scores Increased by 4 folds
 -- Greater Learning time
 
 
 ## Cartpole With Deep Q Learning using Keras-RL2
 
--- Scores Increased by a 10 folds
+-- Scores Increased by 10 folds
 -- Lesser Learning time
