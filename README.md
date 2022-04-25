@@ -21,3 +21,14 @@ https://user-images.githubusercontent.com/76607486/164916571-cb8442b4-c374-44a9-
 
 ## CartPole P-2
 https://user-images.githubusercontent.com/76607486/164916547-24d26bb9-16c0-41be-adfc-91c1b7bce082.mp4
+
+## CarPole with Deep Q Learning p-3
+
+-- Scores Increased by a 4 folds
+-- Greater Learning time
+
+
+## Cartpole With Deep Q Learning using Keras-RL2
+
+-- Scores Increased by a 10 folds
+-- Lesser Learning time
